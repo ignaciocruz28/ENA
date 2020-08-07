@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-07-2020, 21:57:50
+    Author     : Nacho
+*/
+section{
+    font-family:Helvetica;
+    width: 80%;
+    height: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #ccc;
+}
+
+
+section table{
+
+    padding: 5px;
+}
+
+section table input [type="submit"]{
+    background-color: #333;
+    color: #fff; 
+}
+
+section table input [type="submit"]:hover{
+    background-color: #333;
+    color: #fff; 
+
+}
+
+section table th h1{
+    padding: 0;
+    margin: 0;
+
+    color: #555;
+    border-bottom: 1px solid #bbb;
+    padding-bottom: 10px;
+
+}
+section table th{
+    padding-bottom: 10px;
+}
+#menu{
+    width: 100%;
+}
+#menu input[type="button"]{
+    width: 100%;
+    padding: 20px;
+    font-size: 4vmin;
+
+}
